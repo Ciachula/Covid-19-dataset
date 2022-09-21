@@ -1,6 +1,6 @@
 # Data Exploration Project 
 ### Task
-- Analyze Covid-19 data about Deaths and Vaccinations and draw conclusions
+- Analyze Covid-19 data about Deaths and Vaccinations 
 ### Datset
 - Covid-19 data from 01.01.2020 to 05.07.2021 from [Our World in Data](https://ourworldindata.org/covid-deaths)
 ### Tools
